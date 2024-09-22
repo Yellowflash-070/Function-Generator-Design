@@ -37,8 +37,7 @@ In between these thresholds, the output maintains its current state until the in
 Fig 2 : Schmitt Trigger circuit diagram and waveform [2].
 
  
-<br>
-74HC14N Schmitt Trigger IC is used to convert the sine wave obtained using the Wien Bridge oscillator into a square wave.
+**74HC14N Schmitt Trigger IC** is used to convert the sine wave obtained using the Wien Bridge oscillator into a square wave.
 
 ## Project Schematic
 ![Schematic_Frequency-Generator_2024-09-22](https://github.com/user-attachments/assets/8cbac623-6037-4b5f-83c9-694faaf6be4c)
@@ -50,4 +49,11 @@ Fig 2 : Schmitt Trigger circuit diagram and waveform [2].
 ![Screenshot 2024-09-22 132840](https://github.com/user-attachments/assets/aa2c9298-efe7-40fd-aa79-717cdd1f8bb2)
 
 
+**Note** : PCB designing is done in Easy EDA - an open source PCB Design tool. <br>
+**Project Link:** https://oshwlab.com/originalmamba/Frequency-Generator
+
+
+## References
+1. https://www.researchgate.net/figure/Circuit-diagram-of-Schmitt-trigger-with-waveform_fig1_353878777
+2. https://resources.pcb.cadence.com/blog/2020-designing-a-wien-bridge-oscillator-for-sine-wave-generation
 
