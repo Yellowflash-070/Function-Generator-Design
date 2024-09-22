@@ -50,7 +50,8 @@ Fig 2 : Schmitt Trigger circuit diagram and waveform [2].
 
 
 **Note** : PCB designing is done in Easy EDA - an open source PCB Design tool. <br>
-**Project Link:** https://oshwlab.com/originalmamba/Frequency-Generator
+**Project Link** :  https://oshwlab.com/originalmamba/Frequency-Generator <br>
+**Other PCB Design Projects** : https://oshwlab.com/anupam.mathur060801?tab=project&page=1&type=publish
 
 
 ## References
